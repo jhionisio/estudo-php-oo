@@ -1,0 +1,15 @@
+{
+    "name": "joaomarcelo/php_oo",
+    "description": "Meu estudo de php orientado a objeto",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Joao Marcelo Piccablotto de Abreu",
+            "email": "mr.joaomarcelo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}, "autoload": {
+        "psr-4": {"app\\": "app/"}
+    }
+}
